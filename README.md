@@ -4,9 +4,9 @@ ____
 ____
 :construction_worker:  0. Документация;
 
-:white_check_mark:  1. Первый terraform скрипт;
+:white_check_mark:  1. HW1 - Первый terraform скрипт;
 
-:clock1:  2. Настраиваем балансировку веб-приложения;
+:clock1:  2. HW2 - Настраиваем балансировку веб-приложения;
 
 :construction_worker:  3. Реализация GFS2 хранилища на виртуалках под виртуалбокс;
 
@@ -32,5 +32,5 @@ ____
 
 :heavy_check_mark:  14. Настройка CEPH;
 
-:heavy_check_mark:  15. Финальная работа;
+:heavy_check_mark:  15. Финальная работа.
 ____
