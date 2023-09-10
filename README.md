@@ -1,4 +1,4 @@
-# OTUS course homework assignments.
+# Домашние задания курса OTUS. (Administrator Linux. Advanced)
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
