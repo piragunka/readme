@@ -1,8 +1,8 @@
 # Домашние задания курса OTUS (Administrator Linux. Advanced).
 
-:white_check_mark: 1. Первый terraform скрипт    
-:heavy_check_mark: 2. Настраиваем балансировку веб-приложения    
-:black_square_button: 3. делать или не делать, вот в чем вопрос?    
+:white_check_mark: 1. Первый terraform скрипт;    
+:heavy_check_mark: 2. Настраиваем балансировку веб-приложения;    
+:clock1: 3. делать или не делать, вот в чем вопрос?    
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
