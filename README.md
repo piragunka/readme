@@ -1,7 +1,7 @@
 # Домашние задания курса OTUS (Administrator Linux. Advanced).
 
 :white_check_mark: 1. Первый terraform скрипт    
-:negative_squared_cross_mark: 2. Настраиваем балансировку веб-приложения    
+:heavy_check_mark: 2. Настраиваем балансировку веб-приложения    
 :black_square_button: 3. делать или не делать, вот в чем вопрос?    
 
 :white_check_mark:1. Первый уровень 1
