@@ -1,4 +1,4 @@
-# Домашние задания курса OTUS (Administrator Linux. Advanced).
+# ДЗ курса OTUS (Administrator Linux. Advanced).
 
 :white_check_mark: 1. Первый terraform скрипт;
 
