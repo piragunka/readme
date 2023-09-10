@@ -8,9 +8,9 @@
 :black_square_button:   2. Первый уровень 2
 :black_square_button:   3. Первый уровень 3
 
-- [X] 1. Придумать внешний вид резюме
-- [ ] 2. Написать основные категории
-- [X] 3. Опубликовать
+- [X] 1. Первый terraform скрипт
+- [x] 2. Написать основные категории
+:white_check_mark: 3. Опубликовать
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
