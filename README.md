@@ -1,8 +1,8 @@
 # Домашние задания курса OTUS (Administrator Linux. Advanced).
 
-:white_check_mark: Это уже сделано    
-:negative_squared_cross_mark: Я не буду это делать    
-:black_square_button: делать или не делать, вот в чем вопрос?    
+:white_check_mark: 1. Это уже сделано    
+:negative_squared_cross_mark: 2. Я не буду это делать    
+:black_square_button: 3. делать или не делать, вот в чем вопрос?    
 
 :white_check_mark:1. Первый уровень 1
 :black_square_button:2. Первый уровень 2
